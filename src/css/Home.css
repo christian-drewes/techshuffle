@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display');
+
+.home{
+    font-family: 'Major Mono Display', monospace;
+    font-size: 40px;
+    text-align: center;
+}
+
+.T{
+    font-family: 'Major Mono Display', monospace;
+    font-size: 40px;
+    text-align: center;
+    animation: pulse 2.5s;
+
+}
+
+.E{
+    font-family: 'Major Mono Display', monospace;
+    font-size: 40px;
+    text-align: center;
+    animation: pulse 3s;
+}
+.C{
+    font-family: 'Major Mono Display', monospace;
+    font-size: 40px;
+    text-align: center;
+    animation: pulse 4s;
+
+}
+.H{
+    font-family: 'Major Mono Display', monospace;
+    font-size: 40px;
+    text-align: center;
+    animation: pulse 5s;
+}
+.S{
+    font-family: 'Major Mono Display', monospace;
+    font-size: 40px;
+    text-align: center;
+    animation: pulse 6s;
+}
+.Hl{
+    font-family: 'Major Mono Display', monospace;
+    font-size: 40px;
+    text-align: center;
+    animation: pulse 7s;
+}
+.U{
+    font-family: 'Major Mono Display', monospace;
+    font-size: 40px;
+    text-align: center;
+    animation: pulse 8s;
+}
+.F{
+    font-family: 'Major Mono Display', monospace;
+    font-size: 40px;
+    text-align: center;
+    animation: pulse 9s;
+}
+.Fl{
+    font-family: 'Major Mono Display', monospace;
+    font-size: 40px;
+    text-align: center;
+    animation: pulse 10s;
+}
+.L{
+    font-family: 'Major Mono Display', monospace;
+    font-size: 40px;
+    text-align: center;
+    animation: pulse 11s;
+}
+.El{
+    font-family: 'Major Mono Display', monospace;
+    font-size: 40px;
+    text-align: center;
+    animation: pulse 12s;
+}
+
+@keyframes pulse {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
